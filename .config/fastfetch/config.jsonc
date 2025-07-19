@@ -9,17 +9,11 @@
     "kernel",
     "uptime",
     "packages",
-    "shell",
-    "display",
-    "de",
-    "wm",
     "wmtheme",
     "theme",
     "icons",
     "font",
-    "cursor",
     "terminal",
-    "terminalfont",
     "cpu",
     "gpu",
     "memory",
@@ -30,11 +24,11 @@
     "break"
   ],
   "logo": {
-    "source": "~/.config/fastfetch/pics/2.jpg",
+    "source": "~/.config/fastfetch/pics/3.jpg",
     "type": "kitty-icat",
-    "width": 25,
+    "width": 23,
     "padding": {
-      "top": 3
+      "top": 0
     }
   }
 }
