@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=xen_theme
+Description=xen_theme
+Author=xen_Q7
+Website=https://github.com/Keyitdev/sddm-astronaut-theme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+ConfigFile=theme.conf
+Screenshot=Previews/astronaut.png
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=sddm-astronaut-theme
+Theme-API=2.0
+QtVersion=6
